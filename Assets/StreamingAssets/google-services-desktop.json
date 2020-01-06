@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544791979348",
+    "firebase_url": "https://sketchtoar.firebaseio.com",
+    "project_id": "sketchtoar",
+    "storage_bucket": "sketchtoar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544791979348:android:26caca2a3776cb620054c1",
+        "android_client_info": {
+          "package_name": "com.libin.sketchtoar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544791979348-jd0g7u7k45bd4evqcaa8oqt7q7v698s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiCJd1kBR-3yNBthdCErxMtdE8vI11coE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544791979348-jd0g7u7k45bd4evqcaa8oqt7q7v698s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: e4ac1f02010345649add4a07c1f3e929
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bed__1_Cube3
+    100004: Bed__1_Cube_12
+    100006: Bed__1_Cube_22
+    100008: Bed__1_Cube_32
+    100010: Bed___Cube2
+    100012: Bed___Cube_11
+    100014: Bed___Cube_21
+    100016: Bed___Cube_3
+    100018: Bed_lath_Cube1
+    100020: Bed_lath_Cube_1
+    100022: Bed_lath_Cube_23
+    100024: Bed_lath_Cube_31
+    100026: Bed_lath_Cube_4
+    100028: Bed_lath_Cube_5
+    100030: Bed_lath_Cube_6
+    100032: Bed_lath_Cube_7
+    100034: Bed_mattress
+    100036: Bed_Side_Cube
+    100038: Bed_Side_Cube_2
+    400000: //RootNode
+    400002: Bed__1_Cube3
+    400004: Bed__1_Cube_12
+    400006: Bed__1_Cube_22
+    400008: Bed__1_Cube_32
+    400010: Bed___Cube2
+    400012: Bed___Cube_11
+    400014: Bed___Cube_21
+    400016: Bed___Cube_3
+    400018: Bed_lath_Cube1
+    400020: Bed_lath_Cube_1
+    400022: Bed_lath_Cube_23
+    400024: Bed_lath_Cube_31
+    400026: Bed_lath_Cube_4
+    400028: Bed_lath_Cube_5
+    400030: Bed_lath_Cube_6
+    400032: Bed_lath_Cube_7
+    400034: Bed_mattress
+    400036: Bed_Side_Cube
+    400038: Bed_Side_Cube_2
+    2100000: Bed__1_Cube3Mat
+    2100002: Bed__1_Cube_12Mat
+    2100004: Bed__1_Cube_22Mat
+    2100006: Bed__1_Cube_32Mat
+    2100008: Bed___Cube2Mat
+    2100010: Bed___Cube_11Mat
+    2100012: Bed___Cube_21Mat
+    2100014: Bed___Cube_3Mat
+    2100016: Bed_lath_Cube1Mat
+    2100018: Bed_lath_Cube_1Mat
+    2100020: Bed_lath_Cube_23Mat
+    2100022: Bed_lath_Cube_31Mat
+    2100024: Bed_lath_Cube_4Mat
+    2100026: Bed_lath_Cube_5Mat
+    2100028: Bed_lath_Cube_6Mat
+    2100030: Bed_lath_Cube_7Mat
+    2100032: Bed_mattressMat
+    2100034: Bed_Side_CubeMat
+    2100036: Bed_Side_Cube_2Mat
+    2300000: Bed__1_Cube3
+    2300002: Bed__1_Cube_12
+    2300004: Bed__1_Cube_22
+    2300006: Bed__1_Cube_32
+    2300008: Bed___Cube2
+    2300010: Bed___Cube_11
+    2300012: Bed___Cube_21
+    2300014: Bed___Cube_3
+    2300016: Bed_lath_Cube1
+    2300018: Bed_lath_Cube_1
+    2300020: Bed_lath_Cube_23
+    2300022: Bed_lath_Cube_31
+    2300024: Bed_lath_Cube_4
+    2300026: Bed_lath_Cube_5
+    2300028: Bed_lath_Cube_6
+    2300030: Bed_lath_Cube_7
+    2300032: Bed_mattress
+    2300034: Bed_Side_Cube
+    2300036: Bed_Side_Cube_2
+    3300000: Bed__1_Cube3
+    3300002: Bed__1_Cube_12
+    3300004: Bed__1_Cube_22
+    3300006: Bed__1_Cube_32
+    3300008: Bed___Cube2
+    3300010: Bed___Cube_11
+    3300012: Bed___Cube_21
+    3300014: Bed___Cube_3
+    3300016: Bed_lath_Cube1
+    3300018: Bed_lath_Cube_1
+    3300020: Bed_lath_Cube_23
+    3300022: Bed_lath_Cube_31
+    3300024: Bed_lath_Cube_4
+    3300026: Bed_lath_Cube_5
+    3300028: Bed_lath_Cube_6
+    3300030: Bed_lath_Cube_7
+    3300032: Bed_mattress
+    3300034: Bed_Side_Cube
+    3300036: Bed_Side_Cube_2
+    4300000: Bed__1_Cube3
+    4300002: Bed__1_Cube_12
+    4300004: Bed__1_Cube_22
+    4300006: Bed__1_Cube_32
+    4300008: Bed___Cube2
+    4300010: Bed___Cube_11
+    4300012: Bed___Cube_21
+    4300014: Bed___Cube_3
+    4300016: Bed_lath_Cube1
+    4300018: Bed_lath_Cube_1
+    4300020: Bed_lath_Cube_23
+    4300022: Bed_lath_Cube_31
+    4300024: Bed_lath_Cube_4
+    4300026: Bed_lath_Cube_5
+    4300028: Bed_lath_Cube_6
+    4300030: Bed_lath_Cube_7
+    4300032: Bed_mattress
+    4300034: Bed_Side_Cube
+    4300036: Bed_Side_Cube_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
